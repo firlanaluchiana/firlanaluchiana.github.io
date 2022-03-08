@@ -1,0 +1,6 @@
+[submodule "quickstart/hugo-theme-dimension"]
+	path = quickstart/hugo-theme-dimension
+	url = https://github.com/your-identity/hugo-theme-dimension
+[submodule "quickstart/vncnt-hugo"]
+	path = quickstart/vncnt-hugo
+	url = https://github.com/fncnt/vncnt-hugo
