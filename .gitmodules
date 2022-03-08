@@ -1,0 +1,12 @@
+[submodule "quickstart/themes/ananke"]
+	path = quickstart/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "quickstart/hugo-theme-terminal"]
+	path = quickstart/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal
+[submodule "quickstart/hugo-theme-stack"]
+	path = quickstart/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "quickstart/vncnt-hugo"]
+	path = quickstart/vncnt-hugo
+	url = https://github.com/fncnt/vncnt-hugo
